@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Claude Code" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Nantucket: Cisco Brewers to Surfside Beach</name>
+    <desc>Approx. 2.4 mi from Cisco Brewers east on Bartlett Rd, then south on the Surfside Rd bike path to Surfside Beach. Hand-plotted approximate track; not snapped to roads. Verify in a route planner before riding.</desc>
+  </metadata>
+  <wpt lat="41.26170" lon="-70.11720"><name>Cisco Brewers (start)</name></wpt>
+  <wpt lat="41.24250" lon="-70.09990"><name>Surfside Beach (finish)</name></wpt>
+  <trk>
+    <name>Cisco Brewers to Surfside Beach</name>
+    <type>cycling</type>
+    <trkseg>
+      <trkpt lat="41.26170" lon="-70.11720"/>
+      <trkpt lat="41.26300" lon="-70.11590"/>
+      <trkpt lat="41.26420" lon="-70.11420"/>
+      <trkpt lat="41.26450" lon="-70.11150"/>
+      <trkpt lat="41.26420" lon="-70.10850"/>
+      <trkpt lat="41.26350" lon="-70.10550"/>
+      <trkpt lat="41.26250" lon="-70.10250"/>
+      <trkpt lat="41.26150" lon="-70.09950"/>
+      <trkpt lat="41.25900" lon="-70.09920"/>
+      <trkpt lat="41.25600" lon="-70.09900"/>
+      <trkpt lat="41.25300" lon="-70.09900"/>
+      <trkpt lat="41.25000" lon="-70.09910"/>
+      <trkpt lat="41.24700" lon="-70.09930"/>
+      <trkpt lat="41.24450" lon="-70.09960"/>
+      <trkpt lat="41.24250" lon="-70.09990"/>
+    </trkseg>
+  </trk>
+</gpx>
