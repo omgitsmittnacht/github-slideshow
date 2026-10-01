@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Claude Code" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Nantucket: Cisco - Surfside - Town Loop</name>
+    <desc>Approx. 7.4 mi loop from Young's Bicycle Shop to Cisco Brewers, Surfside Beach and back to town, mostly on separated bike paths. Hand-plotted approximate track; not snapped to roads. Verify in a route planner before riding.</desc>
+  </metadata>
+  <wpt lat="41.28580" lon="-70.09620"><name>Young's Bicycle Shop (start/finish)</name></wpt>
+  <wpt lat="41.26170" lon="-70.11720"><name>Cisco Brewers</name></wpt>
+  <wpt lat="41.24250" lon="-70.09990"><name>Surfside Beach</name></wpt>
+  <trk>
+    <name>Cisco - Surfside - Town Loop</name>
+    <type>cycling</type>
+    <trkseg>
+      <!-- Young's to Cisco Brewers -->
+      <trkpt lat="41.28580" lon="-70.09620"/>
+      <trkpt lat="41.28530" lon="-70.09710"/>
+      <trkpt lat="41.28440" lon="-70.09830"/>
+      <trkpt lat="41.28360" lon="-70.09960"/>
+      <trkpt lat="41.28290" lon="-70.10120"/>
+      <trkpt lat="41.28200" lon="-70.10290"/>
+      <trkpt lat="41.28050" lon="-70.10460"/>
+      <trkpt lat="41.27880" lon="-70.10580"/>
+      <trkpt lat="41.27700" lon="-70.10700"/>
+      <trkpt lat="41.27500" lon="-70.10830"/>
+      <trkpt lat="41.27300" lon="-70.10960"/>
+      <trkpt lat="41.27100" lon="-70.11090"/>
+      <trkpt lat="41.26900" lon="-70.11250"/>
+      <trkpt lat="41.26700" lon="-70.11400"/>
+      <trkpt lat="41.26520" lon="-70.11520"/>
+      <trkpt lat="41.26380" lon="-70.11600"/>
+      <trkpt lat="41.26250" lon="-70.11700"/>
+      <trkpt lat="41.26170" lon="-70.11720"/>
+    </trkseg>
+    <trkseg>
+      <!-- Cisco Brewers to Surfside Beach -->
+      <trkpt lat="41.26170" lon="-70.11720"/>
+      <trkpt lat="41.26300" lon="-70.11590"/>
+      <trkpt lat="41.26420" lon="-70.11420"/>
+      <trkpt lat="41.26450" lon="-70.11150"/>
+      <trkpt lat="41.26420" lon="-70.10850"/>
+      <trkpt lat="41.26350" lon="-70.10550"/>
+      <trkpt lat="41.26250" lon="-70.10250"/>
+      <trkpt lat="41.26150" lon="-70.09950"/>
+      <trkpt lat="41.25900" lon="-70.09920"/>
+      <trkpt lat="41.25600" lon="-70.09900"/>
+      <trkpt lat="41.25300" lon="-70.09900"/>
+      <trkpt lat="41.25000" lon="-70.09910"/>
+      <trkpt lat="41.24700" lon="-70.09930"/>
+      <trkpt lat="41.24450" lon="-70.09960"/>
+      <trkpt lat="41.24250" lon="-70.09990"/>
+    </trkseg>
+    <trkseg>
+      <!-- Surfside Beach to Young's -->
+      <trkpt lat="41.24250" lon="-70.09990"/>
+      <trkpt lat="41.24450" lon="-70.09960"/>
+      <trkpt lat="41.24700" lon="-70.09930"/>
+      <trkpt lat="41.25000" lon="-70.09910"/>
+      <trkpt lat="41.25300" lon="-70.09900"/>
+      <trkpt lat="41.25600" lon="-70.09900"/>
+      <trkpt lat="41.25900" lon="-70.09920"/>
+      <trkpt lat="41.26150" lon="-70.09950"/>
+      <trkpt lat="41.26450" lon="-70.09870"/>
+      <trkpt lat="41.26750" lon="-70.09780"/>
+      <trkpt lat="41.27050" lon="-70.09700"/>
+      <trkpt lat="41.27350" lon="-70.09620"/>
+      <trkpt lat="41.27650" lon="-70.09560"/>
+      <trkpt lat="41.27900" lon="-70.09500"/>
+      <trkpt lat="41.28100" lon="-70.09450"/>
+      <trkpt lat="41.28300" lon="-70.09460"/>
+      <trkpt lat="41.28450" lon="-70.09520"/>
+      <trkpt lat="41.28580" lon="-70.09620"/>
+    </trkseg>
+  </trk>
+</gpx>
